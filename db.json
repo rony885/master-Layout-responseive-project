@@ -1,0 +1,244 @@
+{
+    "news": [
+        {
+          "id": "1",
+          "title": "Breakthrough in Renewable Energy",
+          "description": "Scientists unveil a revolutionary technology for harnessing renewable energy sources.",
+          "images": {
+            "main": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F90946%2Fpexels-photo-90946.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-math-90946.jpg%26fm%3Djpg&tbnid=17fDeJlA9I14AM&vet=12ahUKEwi99rKb5tSDAxUzamwGHYirCUUQMygAegQIARBt..i&imgrefurl=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fproduct%2F&docid=nMjIODhQZ_AKUM&w=4314&h=2857&q=product%20images&ved=2ahUKEwi99rKb5tSDAxUzamwGHYirCUUQMygAegQIARBt",
+            "secondary1": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1523275335684-37898b6baf30%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZHVjdHxlbnwwfHwwfHx8MA%253D%253D&tbnid=TInYQSGcrLQY4M&vet=12ahUKEwi99rKb5tSDAxUzamwGHYirCUUQMygCegQIARBx..i&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fproduct&docid=Bfa8p_BERHYMYM&w=1000&h=726&q=product%20images&ved=2ahUKEwi99rKb5tSDAxUzamwGHYirCUUQMygCegQIARBx",
+            "secondary2": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?cs=srgb&dl=pexels-math-90946.jpg&fm=jpg",
+            "thumbnail": "https://media.istockphoto.com/id/1333053202/photo/set-of-smart-watches-with-colorful-straps-on-black-background.jpg?s=612x612&w=0&k=20&c=HqvM-lEyuiSW6sXkA6p-MhrtSN9Yb00M1WHetIzRJI4="
+          },
+          "date": "2024-01-11"
+        },
+        {
+          "id": "2",
+          "title": "Tech Giants Collaborate on Cybersecurity Initiative",
+          "description": "Leading technology companies join forces to enhance global cybersecurity measures.",
+          "images": {
+            "main": "https://example.com/news2_main.jpg",
+            "secondary1": "https://example.com/news2_secondary1.jpg",
+            "secondary2": "https://example.com/news2_secondary2.jpg",
+            "thumbnail": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?cs=srgb&dl=pexels-math-90946.jpg&fm=jpg"
+          },
+          "date": "2024-01-12"
+        },
+        {
+          "id": "3",
+          "title": "AI-powered Medical Diagnostics Breakthrough",
+          "description": "Artificial intelligence proves its potential in early disease detection, revolutionizing medical diagnostics.",
+          "images": {
+            "main": "https://example.com/news3_main.jpg",
+            "secondary1": "https://example.com/news3_secondary1.jpg",
+            "secondary2": "https://example.com/news3_secondary2.jpg",
+            "thumbnail": "https://media.istockphoto.com/id/696497124/photo/a-modern-smartwatch-against-a-vintage-watch.jpg?s=612x612&w=0&k=20&c=PBr_61vHwDmdiV6ksQl7Owt6uzhtv7somF7CCkBoe2E="
+          },
+          "date": "2024-01-13"
+        },
+        {
+          "id": "4",
+          "title": "World Health Organization's Global Vaccination Campaign",
+          "description": "WHO launches an ambitious global vaccination campaign to combat infectious diseases.",
+          "images": {
+            "main": "https://example.com/news4_main.jpg",
+            "secondary1": "https://example.com/news4_secondary1.jpg",
+            "secondary2": "https://example.com/news4_secondary2.jpg",
+            "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZHVjdHN8ZW58MHx8MHx8fDA%3D"
+          },
+          "date": "2024-01-14"
+        },
+        {
+          "id": "5",
+          "title": "Mars Rover Discovers Ancient Microbial Life Traces",
+          "description": "NASA's Mars rover uncovers evidence suggesting the presence of ancient microbial life on the Red Planet.",
+          "images": {
+            "main": "https://example.com/news5_main.jpg",
+            "secondary1": "https://example.com/news5_secondary1.jpg",
+            "secondary2": "https://example.com/news5_secondary2.jpg",
+            "thumbnail": "https://watermark.lovepik.com/photo/20211123/large/lovepik-headphones-in-the-red-background-picture_500863710.jpg"
+          },
+          "date": "2024-01-15"
+        },
+        {
+          "id": "6",
+          "title": "Crisis Averted: International Space Station Emergency Resolved",
+          "description": "Astronauts successfully address and resolve a critical situation on the International Space Station.",
+          "images": {
+            "main": "https://example.com/news6_main.jpg",
+            "secondary1": "https://example.com/news6_secondary1.jpg",
+            "secondary2": "https://example.com/news6_secondary2.jpg",
+            "thumbnail": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c08523916.png"
+          },
+          "date": "2024-01-16"
+        },
+        {
+          "id": "7",
+          "title": "Global Economic Summit Addresses Post-Pandemic Recovery",
+          "description": "World leaders convene to discuss strategies for economic recovery post-COVID-19.",
+          "images": {
+            "main": "https://example.com/news7_main.jpg",
+            "secondary1": "https://example.com/news7_secondary1.jpg",
+            "secondary2": "https://example.com/news7_secondary2.jpg",
+            "thumbnail": "https://cdn.shopify.com/s/files/1/0070/7032/files/trending-products_c8d0d15c-9afc-47e3-9ba2-f7bad0505b9b.png?format=jpg&quality=90&v=1614559651&width=1024"
+          },
+          "date": "2024-01-17"
+        },
+        {
+          "id": "8",
+          "title": "New Art Installation Takes Center Stage at Louvre Museum",
+          "description": "Innovative art piece captivates audiences at the renowned Louvre Museum in Paris.",
+          "images": {
+            "main": "https://example.com/news8_main.jpg",
+            "secondary1": "https://example.com/news8_secondary1.jpg",
+            "secondary2": "https://example.com/news8_secondary2.jpg",
+            "thumbnail": "https://i.pinimg.com/originals/a2/29/ff/a229ff4c28c1fa5fdd496386031a3f16.jpg"
+          },
+          "date": "2024-01-18"
+        },
+        {
+          "id": "9",
+          "title": "Advancements in Quantum Computing Technology",
+          "description": "Scientists achieve a major breakthrough in quantum computing, paving the way for unprecedented computational power.",
+          "images": {
+            "main": "https://example.com/news9_main.jpg",
+            "secondary1": "https://example.com/news9_secondary1.jpg",
+            "secondary2": "https://example.com/news9_secondary2.jpg",
+            "thumbnail": "https://global.aorus.com/upload/Product/F_202201041714708hZ4nW.JPG"
+          },
+          "date": "2024-01-19"
+        },
+        {
+          "id": "10",
+          "title": "Historic Peace Agreement Signed in Middle East",
+          "description": "Nations in the Middle East reach a historic peace agreement, fostering stability and cooperation in the region.",
+          "images": {
+            "main": "https://example.com/news10_main.jpg",
+            "secondary1": "https://example.com/news10_secondary1.jpg",
+            "secondary2": "https://example.com/news10_secondary2.jpg",
+            "thumbnail": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-11-Black-5949.jpg"
+          },
+          "date": "2024-01-20"
+        },
+        {
+          "id": "11",
+          "title": "Innovative Urban Farming Project in Tokyo",
+          "description": "Tokyo launches a groundbreaking urban farming initiative to promote sustainable agriculture within the city.",
+          "images": {
+            "main": "https://example.com/news11_main.jpg",
+            "secondary1": "https://example.com/news11_secondary1.jpg",
+            "secondary2": "https://example.com/news11_secondary2.jpg",
+            "thumbnail": "https://cdn.pixabay.com/photo/2020/11/23/06/21/television-5768804_1280.png"
+          },
+          "date": "2024-01-21"
+        },
+        {
+          "id": "12",
+          "title": "New Environmental Policies to Combat Climate Change",
+          "description": "Governments worldwide implement rigorous environmental policies to address the urgent threat of climate change.",
+          "images": {
+            "main": "https://example.com/news12_main.jpg",
+            "secondary1": "https://example.com/news12_secondary1.jpg",
+            "secondary2": "https://example.com/news12_secondary2.jpg",
+            "thumbnail": "https://www.mobhi.it/20772-large_default/Array.jpg"
+          },
+          "date": "2024-01-22"
+        },
+        {
+          "id": "13",
+          "title": "Major Expansion Plans for Renewable Energy Infrastructure",
+          "description": "Countries announce ambitious plans to expand renewable energy infrastructure, aiming for a greener future.",
+          "images": {
+            "main": "https://example.com/news13_main.jpg",
+            "secondary1": "https://example.com/news13_secondary1.jpg",
+            "secondary2": "https://example.com/news13_secondary2.jpg",
+            "thumbnail": "https://www.mylloyd.com/media/products/zoom1-min.jpg"
+          },
+          "date": "2024-01-23"
+        },
+        {
+          "id": "14",
+          "title": "Groundbreaking Research in Neuroscience",
+          "description": "Neuroscientists achieve a breakthrough in understanding the human brain, opening new possibilities for medical treatments.",
+          "images": {
+            "main": "https://example.com/news14_main.jpg",
+            "secondary1": "https://example.com/news14_secondary1.jpg",
+            "secondary2": "https://example.com/news14_secondary2.jpg",
+            "thumbnail": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D"
+          },
+          "date": "2024-01-24"
+        },
+        {
+          "id": "15",
+          "title": "Space Tourism Company Announces First Commercial Flights",
+          "description": "A leading space tourism company announces the commencement of commercial spaceflights for private individuals.",
+          "images": {
+            "main": "https://example.com/news15_main.jpg",
+            "secondary1": "https://example.com/news15_secondary1.jpg",
+            "secondary2": "https://example.com/news15_secondary2.jpg",
+            "thumbnail": "https://toffpark.com/wp-content/uploads/2023/03/Genuine-Leather-Pointed-Toe-Formal-Shoe-Shinny-Black.jpg"
+          },
+          "date": "2024-01-25"
+        },
+        {
+          "id": "16",
+          "title": "Global Efforts to Preserve Biodiversity",
+          "description": "International organizations collaborate on initiatives to preserve and protect global biodiversity.",
+          "images": {
+            "main": "https://example.com/news16_main.jpg",
+            "secondary1": "https://example.com/news16_secondary1.jpg",
+            "secondary2": "https://example.com/news16_secondary2.jpg",
+            "thumbnail": "https://images.unsplash.com/photo-1581235720704-06d3acfcb36f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHByb2R1Y3R8ZW58MHx8MHx8fDA%3D"
+          },
+          "date": "2024-01-26"
+        },
+        {
+          "id": "17",
+          "title": "Revolutionary Breakthrough in Cancer Treatment",
+          "description": "Medical researchers make a groundbreaking discovery in the quest for more effective cancer treatments.",
+          "images": {
+            "main": "https://example.com/news17_main.jpg",
+            "secondary1": "https://example.com/news17_secondary1.jpg",
+            "secondary2": "https://example.com/news17_secondary2.jpg",
+            "thumbnail": "https://png.pngtree.com/png-vector/20210909/ourmid/pngtree-realistic-metal-magnifying-glass-png-image_3860541.jpg"
+          },
+          "date": "2024-01-27"
+        },
+        {
+          "id": "18",
+          "title": "AI-driven Robotic Prosthetics Improve Quality of Life",
+          "description": "Advancements in artificial intelligence lead to the development of highly functional robotic prosthetics, transforming lives globally.",
+          "images": {
+            "main": "https://example.com/news18_main.jpg",
+            "secondary1": "https://example.com/news18_secondary1.jpg",
+            "secondary2": "https://example.com/news18_secondary2.jpg",
+            "thumbnail": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjQwLXJlbWl4LTAyM2FfMS5wbmc.png"
+          },
+          "date": "2024-01-28"
+        },
+        {
+          "id": "19",
+          "title": "International Film Festival Showcases Diverse Cinematic Talent",
+          "description": "A prestigious film festival celebrates and showcases diverse cinematic talent from around the world.",
+          "images": {
+            "main": "https://example.com/news19_main.jpg",
+            "secondary1": "https://example.com/news19_secondary1.jpg",
+            "secondary2": "https://example.com/news19_secondary2.jpg",
+            "thumbnail": "https://static.wixstatic.com/media/0d3c2e_8b537cd17c264d48a986f6e6e401b40f~mv2.jpg/v1/fill/w_560,h_564,fp_0.50_0.50,q_80,enc_auto/0d3c2e_8b537cd17c264d48a986f6e6e401b40f~mv2.jpg"
+          },
+          "date": "2024-01-29"
+        },
+        {
+          "id": "20",
+          "title": "Researchers Unveil Sustainable Packaging Solutions",
+          "description": "Scientists present innovative and sustainable packaging solutions to address environmental concerns.",
+          "images": {
+            "main": "https://example.com/news20_main.jpg",
+            "secondary1": "https://example.com/news20_secondary1.jpg",
+            "secondary2": "https://example.com/news20_secondary2.jpg",
+            "thumbnail": "https://5.imimg.com/data5/GE/JK/QG/SELLER-989864/yamaha-bike-500x500.png"
+          },
+          "date": "2024-01-30"
+        }
+      ]
+  }
